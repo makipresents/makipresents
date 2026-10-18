@@ -1,6 +1,6 @@
 # Hello! I'm Maki
 
-![signature](maki_sign.jpg)
+![signature](signature.png)
 
 I'm programmer and digital artist.
 
