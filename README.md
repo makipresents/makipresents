@@ -5,4 +5,6 @@
 I'm programmer and digital artist.
 
 My stack:
--C# -Python -PostgreSQL
+-C#
+-Python
+-PostgreSQL
